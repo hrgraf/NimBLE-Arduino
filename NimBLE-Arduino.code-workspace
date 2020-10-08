@@ -1,0 +1,14 @@
+{
+	"folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "examples\\NimBLE_Client"
+        },
+        {
+            "path": "examples\\NimBLE_Server"
+        }
+    ],
+    "settings": {}
+}

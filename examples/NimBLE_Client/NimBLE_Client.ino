@@ -8,6 +8,8 @@
  * 
 */
 
+// Advertised Device found: Name: LEGO Move Hub, Address: 00:16:53:b9:fa:73, manufacturer data: 9703004006006300, serviceUUID: 00001623-1212-efde-1623-785feabcd123, txPower: 0
+
 #include <NimBLEDevice.h>
 
 void scanEndedCB(NimBLEScanResults results);
